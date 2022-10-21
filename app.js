@@ -6,7 +6,6 @@ const router = express.Router();
 app.use(express.json());
 
 
-
 app.get("/", function (req, res){
     res.send("WORKING!!! Hello There");
 })
