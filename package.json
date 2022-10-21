@@ -9,5 +9,14 @@
   "dependencies": {
     "@primer/css": "17.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTSA-CS3773-aglieSoftwareEngineering/Bark-Cart.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/UTSA-CS3773-aglieSoftwareEngineering/Bark-Cart/issues"
+  },
+  "homepage": "https://github.com/UTSA-CS3773-aglieSoftwareEngineering/Bark-Cart#readme"
 }
