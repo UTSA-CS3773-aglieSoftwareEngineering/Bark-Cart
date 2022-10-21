@@ -5,8 +5,6 @@ const router = express.Router();
 
 app.use(express.json());
 
-app.use('/abc', movies);
-
 
 
 app.get("/", function (req, res){
